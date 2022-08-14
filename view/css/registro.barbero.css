@@ -1,0 +1,130 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.registro{
+  text-align: center;
+  background: rgb(63, 160, 240);
+  width: 610px;
+  padding: 10px;
+  margin-left: 395px;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  color: white;
+} 
+.logo{
+  width: 10px;
+  height: 10px;
+} 
+.logo1{
+  width: 140px;
+  height: 150px;
+  margin-left: 10px;
+}
+fieldset{
+  width: 600px;
+  height: 625px;
+  border: 5px solid;
+  border-radius: 10px;
+  margin-left: 395px;
+  border-color: rgb(63, 160, 240);
+}
+legend{
+  width: 230px;
+  font-size:35px;
+  padding: 20px;
+  margin-left: 160px;
+  border-radius: 3px;
+  color: rgb(63, 160, 240);
+}
+input[type="text1"]{
+  width: 200px;
+  padding: 10px;
+  margin-left: 190px;
+}
+input[type="text2"]{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+.Nro{
+  width: 70px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+input[type="number"]{
+  width: 125px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 1px;
+}
+.date1{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+.Fcion{
+  width: 225px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+input[type="text3"]{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+input[type="text4"]{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+input[type="email"]{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+  
+}
+input[type="text5"]{
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+.lbel{
+  font-size: 14px;
+  margin-left: 190px;
+  color: rgb(255, 0, 85);
+}
+.lbel1{
+  font-size: 14px;
+  margin-left: 190px;
+  color: rgb(255, 0, 85);
+}
+.Cuar{
+  color: white;
+  width: 110px;
+  padding: 10px;
+  border: solid;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 250px;
+  border-radius: 10px;
+  background-color:rgba(63, 160, 240);
+}
+.frase{
+  margin-left: 1100px;
+  font-size: 35px;
+  color: rgba(63, 160, 240);
+
+}
+.icon2{
+  color: rgb(255, 0, 85);
+}
+

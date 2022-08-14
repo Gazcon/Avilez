@@ -1,0 +1,86 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.registro{
+    text-align: center;
+    background: rgb(63, 160, 240);
+    width: 610px;
+    padding: 10px;
+    margin-left: 395px;
+    border: 1px solid #aaa;
+    margin-top: 15px;
+    border-radius: 3%;
+    color: white;
+} 
+.logo{
+    width: 10px;
+    height: 10px;
+} 
+.logo1{
+    width: 140px;
+    height: 150px;
+    margin-left: 10px;
+}
+.use{
+    font-size: 40px;
+    margin-left: 170px;
+}
+.tex{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    margin-left: 1px;
+}
+.bu{
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+   margin-left: 980px;
+   background-color: white;
+}
+.bar{
+    width: 900px;
+    height: 150px;
+    font-size: 50px;
+    border: solid;
+    color: white;
+    cursor: pointer;
+    margin-top: 100px;
+    margin-left: 160px;
+    border-radius: 10px;
+    background-color: rgb(63, 160, 240);
+}
+.age{
+    width: 900px;
+    height: 150px; 
+    font-size: 50px;
+    border: solid;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 160px;
+    border-radius: 10px;
+    background-color: rgb(63, 160, 240);
+}
+.reg{
+    width: 900px;
+    height: 150px; 
+    font-size: 50px;
+    border: solid;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 160px;
+    border-radius: 10px;
+    background-color: rgb(63, 160, 240);
+}
+.frase{
+    margin-left: 1100px;
+    font-size: 40px;
+    color: rgba(63, 160, 240);
+  
+}
+.icon2{
+    color: rgb(255, 0, 85);
+}
